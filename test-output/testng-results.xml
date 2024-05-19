@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-19T13:35:13 IST" name="Default suite" finished-at="2024-05-19T13:35:48 IST" duration-ms="35617">
+    <groups>
+    </groups>
+    <test started-at="2024-05-19T13:35:13 IST" name="Default test" finished-at="2024-05-19T13:35:48 IST" duration-ms="35617">
+      <class name="TestCases.AllTestClasses">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestCases.AllTestClasses@7b36aa0c]" started-at="2024-05-19T13:35:13 IST" name="LaunchBrowser" finished-at="2024-05-19T13:35:21 IST" duration-ms="8566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="TestCase1()[pri:1, instance:TestCases.AllTestClasses@7b36aa0c]" started-at="2024-05-19T13:35:21 IST" name="TestCase1" finished-at="2024-05-19T13:35:36 IST" duration-ms="14675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method signature="towriteinExcel()[pri:2, instance:TestCases.AllTestClasses@7b36aa0c]" started-at="2024-05-19T13:35:36 IST" name="towriteinExcel" finished-at="2024-05-19T13:35:37 IST" duration-ms="1080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- towriteinExcel -->
+        <test-method signature="toComapreTheExcelFile()[pri:3, instance:TestCases.AllTestClasses@7b36aa0c]" started-at="2024-05-19T13:35:37 IST" name="toComapreTheExcelFile" finished-at="2024-05-19T13:35:48 IST" duration-ms="11090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toComapreTheExcelFile -->
+        <test-method signature="selectTheDate()[pri:4, instance:TestCases.AllTestClasses@7b36aa0c]" started-at="2024-05-19T13:35:48 IST" name="selectTheDate" finished-at="2024-05-19T13:35:48 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTheDate -->
+      </class> <!-- TestCases.AllTestClasses -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
